@@ -35,7 +35,7 @@ pip install numpy matplotlib Pillow pyyaml
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yani-rl-ai/gng_dijkstra.git
-   cd your-repository
+   cd gng_dijkstra
    ```
 
 2. **Prepare your environment**:
