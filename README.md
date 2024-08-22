@@ -44,7 +44,7 @@ pip install numpy matplotlib Pillow pyyaml
 3. **Run the script**:
    Execute the script to generate the GNG map and compute the shortest path.
    ```bash
-   python gng_dijkstra.py
+   python standard_gng_pgm_dijkstra_test.py
    ```
 
 4. **View the results**:
